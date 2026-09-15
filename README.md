@@ -1,4 +1,4 @@
-# Bachelor's in Computer Engineering
+# Maths courses taught in my Bachelor's in Computer Engineering
 
 Revisiting six semesters of university math courses — but on computers this time.
 Each subject gets the language most idiomatic to it, rather than forcing everything into one toolchain.
