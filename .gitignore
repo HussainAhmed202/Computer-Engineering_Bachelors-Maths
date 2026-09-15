@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+
+# Compiled binaries
+*.o
+*.mod
+*.hi
+06-numerical-methods-c/src/*.out
+04-linalg-ode-fortran/src/gauss_elim
+04-linalg-ode-fortran/src/power_iteration
+04-linalg-ode-fortran/src/rk4_ode
+06-numerical-methods-c/src/root_finding
+06-numerical-methods-c/src/interpolation
+06-numerical-methods-c/src/integration
+02-discrete-math-haskell/src/Combinatorics
+02-discrete-math-haskell/src/*.hi
+02-discrete-math-haskell/src/*.o
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
