@@ -1,4 +1,4 @@
-# math-revisited
+# Bachelor's in Computer Engineering
 
 Revisiting six semesters of university math courses — but on computers this time.
 Each subject gets the language most idiomatic to it, rather than forcing everything into one toolchain.
@@ -26,16 +26,6 @@ math-revisited/
 ├── 05-prob-stats-r/
 └── 06-numerical-methods-c/
 ```
-
-## Suggested build order
-
-1. `01-calculus-python` — fastest to get moving, visual payoff
-2. `05-prob-stats-r` — quick wins, satisfying plots
-3. `03-complex-fourier-matlab` — Octave is a free drop-in if no MATLAB license
-4. `02-discrete-math-haskell` — different headspace, rewarding once it clicks
-5. `06-numerical-methods-c` — the "see the floating point" grind
-6. `04-linalg-ode-fortran` — most unusual toolchain, save for last
-
 ## Log
 
 Each subfolder README doubles as a running log — the original course topic, what was built,
